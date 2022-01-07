@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 ###############################################################################
-## Author: Rick.Davis@Citrix.com
+## Author: R. Davis
 ## Date: 01/22/2019
 ## Citrix ADC User Based Monitor for validating Network Time Protocol (NTP) 
 ## Server communication.   
